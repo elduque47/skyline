@@ -1,1 +1,1 @@
-2.9.0#https://git.mycine.es/elduque/skyline/raw/branch/main/local/Skyline_all.ipk
+2.9.0#https://gitea.es/elduque/skyline/raw/branch/main/local/Skyline_all.ipk
