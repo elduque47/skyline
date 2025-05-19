@@ -2,7 +2,7 @@
 <h2><p align="center">Skyline está basado y modificado del skin Maxy-FHD.Para https://openspa.info</p></h2> 
 <details>
     <summary>
-        <a href="https://gitea.es/elduque/skyline/raw/branch/main/local/Skyline_all.ipk"><code></code><img align="center" alt="Descargar" src="https://img.shields.io/badge/Descargar%20-De%20Aqui-32CD32"></a>
+        <a href="https://gitea.es/elduque/skyline/raw/branch/main/local/Skyline_all.ipk"><code></code><img align="center" alt="Descargar" src="https://img.shields.io/badge/Descargar%20Ipk-De%20Aqui-32CD32"></a>
         <span></span>
         <strong><code></code></strong>
         <span></span>
