@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gitea.es/elduque/skyline/raw/branch/main/local/plugin.png" width="350" height="202"/>  <img src="https://gitea.es/elduque/skyline/raw/branch/main/local/qrcode_gitea.es.png" width="202" height="202"/>  <img src="https://gitea.es/elduque/skyline/raw/branch/main/local/prev.png" width="350" height="202"/></p> 
+<p align="center"><img src="https://gitea.es/elduque/skyline/raw/branch/main/local/plugin.png(https://github.com/elduque47/skyline/blob/main/local/plugin.png)" width="350" height="202"/>  <img src="https://gitea.es/elduque/skyline/raw/branch/main/local/qrcode_gitea.es.png" width="202" height="202"/>  <img src="https://gitea.es/elduque/skyline/raw/branch/main/local/prev.png" width="350" height="202"/></p> 
 <h2><p align="center">Skyline está basado y modificado del skin Maxy-FHD. Para https://openspa.info</p></h2> 
 <details>
     <summary>
